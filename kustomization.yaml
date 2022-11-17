@@ -3,4 +3,4 @@ kind: Kustomization
 
 resources:
 # private repo
-- https://github.com/abkura/remoterepo.git
+- https://github.com/abkura/argocd-kustomize-private.git
